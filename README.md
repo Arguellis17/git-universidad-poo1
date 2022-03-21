@@ -1,5 +1,5 @@
 # git-universidad-poo1
-Repositorio que corresponde a trabajos de la UFPS en la materia Programación Orienta a Objetos
+Repositorio que corresponde a trabajos de la UFPS en la materia Programación Orientada a Objetos
 
 Grupo "NERV"
 
